@@ -1,6 +1,6 @@
 # Selenium-Odev/
-· Kitapyurdu Anasayfa açılır 
-· Login olunur 
+· Kitapyurdu Anasayfa açılır/ 
+· Login olunur /
 · Sayfaya login olması kontrolu yapılır 
 · Oyuncak ürünü aratılır 
 · Sayfada yer alan 7.ürüne scroll yapılır ve 4 ürün favorilerime eklenir 
